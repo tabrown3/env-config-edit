@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+  <appSettings>
+    <clear/>
+    <add key="vs:EnableBrowserLink" value="false"/>
+    <add key="DEV_FROM_HOSTS" value="dev.example.com"/>
+    <add key="DEV_TO_CMS" value="back2.prod.example.com"/>
+    <add key="DEV_TO_JAVAWEBSERVICES" value="https://dev.jws.example.com"/>
+    <add key="DEV_TO_MATSAL_LEGACY" value="https://dev.msws.example.com"/>
+    <add key="QA_FROM_HOSTS" value="qa.example.com"/>
+    <add key="QA_TO_CMS" value="https://qa.cms.example.com"/>
+    <add key="QA_TO_JAVAWEBSERVICES" value="https://qa.jws.example.com"/>
+    <add key="QA_TO_MATSAL_LEGACY" value="https://qa.msws.example.com"/>
+    <add key="UAT_FROM_HOSTS" value="uat.example.com"/>
+    <add key="UAT_TO_CMS" value="https://uat.cms.example.com"/>
+    <add key="UAT_TO_JAVAWEBSERVICES" value="https://uat.jws.example.com"/>
+    <add key="UAT_TO_MATSAL_LEGACY" value="https://uat.msws.example.com"/>
+  </appSettings>
+</configuration>

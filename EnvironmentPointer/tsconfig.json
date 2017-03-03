@@ -1,0 +1,15 @@
+﻿{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+    "include": [
+      "Src/**/*.ts",
+      "app.ts"
+    ]
+}
